@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "landingText": "UNISEKAI",
+  "@landingText": {
+    "description": "Texte d'accueil de l'application"
+  },
+  "mmiformations": "Formations MMI",
+  "batimentStory": "Histoire du bâtiment",
+  "projets": "Projets des étudiants",
+  "featureLocked": "Trouvez et scannez un QR Code pour déverouiller cette fonctionalité",
+  "formationMMIHeading": "Le BUT MMI dispose de différent parcours"
+}
